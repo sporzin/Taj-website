@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 promo__content" data-aos="fade-right">
-                <h1>Cryptoland Just Entered <span>the Real World</span></h1>
+                <h1>Taj Just Entered <span>the Real World</span></h1>
                 <p>
                     Spend real fights effective anything extra by leading. Mouthwatering leading how real formula also locked-in have can mountain thought. Jumbo plus shine sale.
                 </p>
@@ -18,8 +18,7 @@
                 </div>
 
                 <div class="promo__btns-wrap">
-                    <a href="#" class="btn btn--medium btn--orange"><span>Buy Tokens 47% Off</span></a>
-                    <a href="#" class="btn btn--big btn--blue">WhitePappers</a>
+                    <a href="#" class="btn btn--big btn--blue">White Papers</a>
                 </div>
 
                 <div class="payments">
